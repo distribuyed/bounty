@@ -11,7 +11,7 @@ Please, consider [contributing](https://github.com/distribuyed/bounty/blob/maste
 
 | Platform | WEB | STATUS | REPO |  WHITEPAPER | DEX GRADE |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| Deconet | [![alt text][web]](https://deco.network/)  | (developing) |  |  |  |
+| Deconet | [![alt text][web]](https://deco.network/)  | (operating) |  |  |  |
 | Gitcoin | [![alt text][web]](https://gitcoin.co/) | (operating) |  |  |  |
 | Bounties | [![alt text][web]](https://bounties.network/) | (operating - beta) |  |  |  |
 | Bounty0x | [![alt text][web]](https://bounty0x.io/) | (operating - alpha) |  |  |  |
