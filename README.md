@@ -13,9 +13,11 @@ Please, consider [contributing](https://github.com/distribuyed/bounty/blob/maste
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | Deconet | [![alt text][web]](https://deco.network/)  | (operating) |  |  |  |
 | Gitcoin | [![alt text][web]](https://gitcoin.co/) | (operating) |  |  |  |
-| Bounties | [![alt text][web]](https://bounties.network/) | (operating - beta) |  |  |  |
+| Bounties | [![alt text][web]](https://bounties.network/) | (operating - beta) |  |  | | 
 | Bounty0x | [![alt text][web]](https://bounty0x.io/) | (operating - alpha) |  |  |  |
+| BountyPortals | [![alt text][web]](https://bountyportals.com/) | (operating) |  |  |  |
 | Bountysource | [![alt text][web]](https://www.bountysource.com/) | (operating) |  |  |  |
+| MatchBX | [![alt text][web]](https://matchbx.io/) | (operating) |  |  |  |
 
 ## **REFERENCES**: 
 
@@ -27,30 +29,7 @@ TBO: To be obtained.
 
 TBC: To be confirmed.
 
-## **DEX GRADE**:
-
-It is a complex task, since it not only requires a very specific technical definition, but also requires an exhaustive analysis of each of the exchanges that we include. We are working on it. But all help is welcome. The goal is to get a model like the Creative Commons badges [https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/](https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/).
-
-This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steven Hatzakis](https://github.com/hatgit), [Manfred Karrer](https://github.com/ManfredKarrer) and [Elio Osés](https://twitter.com/oseselio):
-
- - **Accountless**: The project should be accesible without registration, KYC or AML policies. `ACL`
- - **Decentralized Capital Deposits (self-custodied)**: You should be able to trade directly out of your own wallet. `DCD`
- - **Decentralized Client**: The trades should be possibles through a downloadable client or build it from source. `DC`  
- - **Decentralized Development**: The project should be open source. `DD` 
- - **Decentralized DNS**: The project should be accessible through a decentralized domain name service (like [ENS](https://ens.domains/)). `DDNS` 
- - **Decentralized Governance**: The direction of the project should be governed by the project's service providers. `DG`
- - **Decentralized Order Books**: Orderbooks should be synced among various parties to prevent any malicious behavior in  a similar way that blockchain validation consensus is decentralized. `DOB`
- - **Decentralized Order Matching**: The matching of orders should be decentralized among different parties. `DOM`
- - **Decentralized Swap**: The usage of atomic swaps. The trader's funds should go directly from one  to the other without any other parties handling the funds. `DS`
- - **Decentralized Settlement**: `DSTT`
- - **Fully Decentralized**: `FULLY`
- - **Open Protocol**:   `OPRO`
-
-If you know in details or are you the owner/dev of any bounty program platform, please fill the column with all the codes that correspond creating an [issue](https://github.com/distribuyed/index/issues) or [pull request](https://github.com/distribuyed/bounty/pulls) to suggest changes to this file.
-
-## **SOURCES**: 
-
- - [@oseselio](https://twitter.com/oseselio) research for "Mercados Descentralizados | #dsociety" book project.
+If you know in details or are you the owner/dev of any bounty program platform, please fill the column with all the codes that correspond creating an [issue](https://github.com/distribuyed/bounty/issues) or [pull request](https://github.com/distribuyed/bounty/pulls) to suggest changes to this file.
 
 ## License
 
